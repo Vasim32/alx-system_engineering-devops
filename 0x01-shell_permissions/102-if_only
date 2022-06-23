@@ -1,0 +1,5 @@
+#!/bin/bash
+if stat -c “%U %G” hello == guillaume
+then
+chown betty hello
+fi
