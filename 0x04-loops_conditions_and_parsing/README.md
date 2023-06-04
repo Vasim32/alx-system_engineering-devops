@@ -1,1 +1,0 @@
-This is all about shell script in a deeper manner.
